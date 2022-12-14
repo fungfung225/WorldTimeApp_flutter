@@ -1,16 +1,10 @@
 # world_time
 
-A new Flutter project.
+### Home page
 
-## Getting Started
+![圖片](https://user-images.githubusercontent.com/90837134/207677492-85854643-4490-4185-a770-008989ebd276.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Choose location
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![圖片](https://user-images.githubusercontent.com/90837134/207677661-c7b58364-e47f-4167-9b86-9f2b30cc4912.png)
